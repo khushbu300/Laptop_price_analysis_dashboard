@@ -128,19 +128,6 @@ The dashboard includes:
 
 ---
 
-## 📁 Project Structure
-
-```
-laptop-price-decoded/
-│
-├── laptopdata.pbix
-├── laptopData.csv
-├── data_cleaning.sql
-├── dashboard.png
-├── README.md
-```
-
----
 
 ## ⭐ Conclusion
 
